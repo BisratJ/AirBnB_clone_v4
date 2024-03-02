@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Author
-Ananeya Tekalign - [Github](https://github.com/Ananeya) <br/>
+Bisrat Gizaw - [Github](https://github.com/BisratJ) <br/>
 
 ## License
 Public Domain. No copy write protection. 
